@@ -26,8 +26,8 @@
 - 요청 파라미터 필수 (O)
 - 요청 파라미터 기본값 (O)
 - 요청 파라미터 MAP (O)
-- 요청 파라미터 @ModelAttribute v1
-- 요청 파라미터 @ModelAttribute v2
+- 요청 파라미터 @ModelAttribute v1 (O)
+- 요청 파라미터 @ModelAttribute v2 (O)
 
 **6. HTTP 요청 메세지**
 POST MAN
