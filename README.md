@@ -30,12 +30,12 @@
 - 요청 파라미터 @ModelAttribute v2 (O)
 
 **6. HTTP 요청 메세지**
-POST MAN
+POST MAN (O)
 
 **7. HTTP 응답 - 정적 리소스, 뷰 템플릿**
-- 정적 리소스
-- 뷰 템플릿 v1
-- 뷰 템플릿 v2
+- 정적 리소스 (O)
+- 뷰 템플릿 v1 (O)
+- 뷰 템플릿 v2 (O)
 
 **8. HTTP 응답 - HTTP API, 메세지 바디에 직접 입력**
 - HTTP API String v1
