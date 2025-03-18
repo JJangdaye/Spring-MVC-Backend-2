@@ -38,8 +38,8 @@ POST MAN (O)
 - 뷰 템플릿 v2 (O)
 
 **8. HTTP 응답 - HTTP API, 메세지 바디에 직접 입력**
-- HTTP API String v1
-- HTTP API String v2
-- HTTP API String v3
-- HTTP API Json v1
-- HTTP API Json v2
+- HTTP API String v1 (O)
+- HTTP API String v2 (O)
+- HTTP API String v3 (O)
+- HTTP API Json v1 (O)
+- HTTP API Json v2 (O)
