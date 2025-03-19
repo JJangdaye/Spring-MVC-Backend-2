@@ -14,6 +14,7 @@ import java.io.IOException;
 
 @Slf4j
 @Controller
+// @@RestController
 public class ResponseBodyController {
 
     @GetMapping("/response-body-string-v1")
@@ -21,6 +22,7 @@ public class ResponseBodyController {
         response.getWriter().write("ok");
     }
 
+    // HttpEntity, ResponseEbtity status 추가
     @GetMapping("/response-body-string-v2")
     public ResponseEntity<String> responseBodyV2() {
         return new ResponseEntity<>("ok", HttpStatus.OK);
